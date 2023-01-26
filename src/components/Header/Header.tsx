@@ -7,7 +7,7 @@ const Navbar = styled.div`
   align-items: center;
   font-size: 2.8rem;
   font-weight: bold;
-  background-image: url("../../../public/assets/backgroundHeader.jpeg");
+  background-image: url("assets/backgroundHeader.jpeg");
   background-position: center;
   color: white;
   height: 8vh;
